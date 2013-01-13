@@ -11,11 +11,12 @@ var sDiProjects = [
     "week3",
     "week4"
 ]; // Array
-
+var hardCourse = (true); // boolean
 
 // My output
 console.log(" Hello Class My name is " +  Myname + ".");
-console.log(" I am currently in SDI class at Full Sail university")
+console.log(" I am currently in SDI class at Full Sail university");
+console.log(" In this class we have 4 main projects.");
 
 
 
