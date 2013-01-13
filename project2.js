@@ -14,6 +14,10 @@ var sDiProjects = [
 
 
 // My output
+console.log(" Hello Class My name is " +  Myname + ".");
+console.log(" I am currently in SDI class at Full Sail university")
+
+
 
 
 
